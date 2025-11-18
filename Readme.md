@@ -1,5 +1,7 @@
 # WebRTC SIP Client Dashboard — Asterisk WSS
 
+![Dashboard Screenshot](pic.png)
+
 A fully operational WebRTC + SIP.js dashboard for Asterisk over WSS.
 
 Features:
